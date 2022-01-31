@@ -7,6 +7,13 @@ Journey through all the features of the micro:bit with interactive activities an
 ## Resource Aim
 This course introduces learners to the key STEM topics of physical computing, sensors, programming and Internet of Things (IoT) through project-based learning. Learners are immersed in a series of projects which involve rapid team-based development of a solution to meet specified criteria. These sprints of project-based work are interspersed with theory lessons that cover the core concepts necessary for the following projects.
 
+## Getting Involved
+We welcome contributions and amendments to this resource. For details, please click on the following links: 
+
+- How to [contribute](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/How%20to%20contribute.md) 
+- Type of contributions we are looking for. Click [here](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Intro%20to%20Computing%20Brief.md) for the brief.
+- [Workflow](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Workflow.md) 
+
 ## Resource Structure
 ### Introduction to Computing with micro:bit (lessons 1-6)
 
