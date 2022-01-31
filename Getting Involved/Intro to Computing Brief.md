@@ -14,7 +14,7 @@ For each lesson the resources consist of:
 - Worksheet(s)
 
 ## Payment:
-£TBC – price per lesson
+Such briefs will also include a fee payable to contributors who have fully addressed the brief and had their work accepted as canonical content.
 
 ## Skills and experience required:
 - Experience with the V2 micro:bit, new hardware features and application features in MakeCode 
