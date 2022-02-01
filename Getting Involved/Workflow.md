@@ -1,6 +1,6 @@
 # Workflow 
 
-1)	Review the brief [here](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Intro%20to%20Computing%20Brief.md)
+1)	Review the brief [here](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Intro%20to%20Computing%20Brief.md). Such briefs will also include a fee payable to contributors who have fully addressed the brief and had their work accepted as canonical content.
 2)	Download the [material](https://github.com/arm-university/Introduction-to-Computing-with-microbit/archive/refs/heads/main.zip) and make any amendments using tracked changes in Word
 3)	Submit the proposed changes to school@arm.com indicating via cover note what changes have been made
 4)	All proposals will be reviewed. If there are comments, they will be sent back to you
