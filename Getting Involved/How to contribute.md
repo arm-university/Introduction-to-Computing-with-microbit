@@ -28,8 +28,8 @@ Responsibilities:
 - Review contributions and provide feedback
 
 ## Contributions
-Before contributing an enhancement (for example, additional content), please review the contributions made to date in order to avoid duplication of work, as ASP or others might be working on a related feature.
+Before contributing an enhancement (for example, additional content), please review the contributions made to date in order to avoid duplication of work, as others might be working on a related feature.
 
 ## Workflow
-All content is handled through GitHub and is subject to a QA process. If you want to contribute, please see the [workflow.](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Workflow.md)
+All content is subject to a QA process. If you want to contribute, please see the [workflow.](https://github.com/arm-university/ASP_Introduction-to-Computing-with-microbit/blob/main/Getting%20Involved/Workflow.md)
 
