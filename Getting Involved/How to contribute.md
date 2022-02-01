@@ -13,8 +13,8 @@ By proposing a change for content on GitHub, you agree to license your contribut
 Contributions have to meet the following requirements to keep the version history clean:
 
 - Contributions must always contain a proper description of their content. Start with a concise one-line description. Then, elaborate on reasoning for the choices made, descriptions for reviewers and other information that might otherwise be lost.
-- All new features, content changes and enhancements require explanation in order for ASP to accept them. 
-- Comment in the marked up word document on every change. This helps reviewers to be up to date with changes.
+- All new features, content changes and enhancements require explanation in order for them to be accepted. 
+- Comment in the marked-up word document on every change. This helps reviewers to keep up-to-date with changes.
 - All contributions should add a feature or change content.
 
 If contributions do not follow the above guidelines, we may request further changes.
