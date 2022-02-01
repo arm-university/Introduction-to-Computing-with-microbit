@@ -16,6 +16,11 @@ For each lesson the resources consist of:
 ## Payment:
 Such briefs will also include a fee payable to contributors who have fully addressed the brief and had their work accepted as canonical content.
 
+£1000 for delivering the whole course against the brief or part therein as described below:
+- Introduction to Computing with micro:bit (lessons 1-6) - £250
+- Sensors and Radio Communication (lessons 7-12) - £250
+- Internet of Things on micro:bit (lessons 13-24) - £500
+
 ## Skills and experience required:
 - Experience with the V2 micro:bit, new hardware features and application features in MakeCode 
 - Experience developing educational content at K-12
