@@ -1,6 +1,6 @@
 # Open Governance Work Brief 
 
-## V2 update for Intro to Computing with micro:bit static resources
+## V2 update for Intro to Computing with micro:bit static resources - this was completed March 2022
 The Arm School Program is looking to build on the success of the Intro to Computing with micro:bit (lessons 1-6) by updating the lessons and associated resources to include V2 functionality.
  The resources currently start from the absolute fundamentals up to KS3/Grade7. We require the lessons and associated resources be updated to include:
 - V2 functionality where appropriate
