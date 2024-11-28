@@ -3,7 +3,7 @@ The Arm School Program (ASP) has made Introduction to Computing with micro:bit o
 
 ASP uses the following license - [Licence.md](https://github.com/arm-university/Introduction-to-Computing-with-microbit/blob/main/Licence.md)
 
-To encourage collaboration, as well as robust, consistent and maintainable content, we have developed a set of guidelines for contributing to these materials.
+To encourage collaboration, as well as robust, consistent and maintainable content, we have developed a set of guidelines for contributing to these materials. 
 
 ## How to contribute 
 We accept contributions in the form of **marked up word documents (please use track changes)**. All potential changes are reviewed before they are accepted. The review includes but is not limited to: functional correctness, style or formatting, as well as a review of any content amendments. If any of the reviews fail, more work will be needed before we accept the contribution.
